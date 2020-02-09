@@ -1,5 +1,8 @@
 # Begum, Snake Rider (Begüm, Yılan Terbiyecisi)
 A godot based snake clone game. A snake clone game with different game mechanics will be developed via this repository. The progress will be tracked via Wordpress blog at www.yazilimperver.com
+NOTE: This page is very new, so there might be serious shortcomings :)
+
+*Read this in other languages: [Türkçe](README.tr.md)
 
 ## Scope
 
