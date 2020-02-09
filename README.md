@@ -3,11 +3,11 @@ A godot based snake clone game. A snake clone game with different game mechanics
 
 ## Scope
 
-* Let us have a look at the scope of this project.
+*Let us have a look at the scope of this project.*
 
 ### Motivation
 
-* Start with a motivation.
+*Start with a motivation.*
 
 - Develop an open source snake clone game
 - Share track of progress via series of blog posts
