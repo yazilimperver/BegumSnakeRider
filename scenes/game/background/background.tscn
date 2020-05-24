@@ -6,18 +6,26 @@
 
 [node name="Walls" type="Node" parent="."]
 
-[node name="TopWall" parent="Walls" instance=ExtResource( 1 )]
+[node name="TopWall" parent="Walls" groups=[
+"Obstacle",
+] instance=ExtResource( 1 )]
 position = Vector2( 400, 15 )
 
-[node name="BottomWall" parent="Walls" instance=ExtResource( 1 )]
+[node name="BottomWall" parent="Walls" groups=[
+"Obstacle",
+] instance=ExtResource( 1 )]
 position = Vector2( 400, 585 )
 
-[node name="LeftWall" parent="Walls" instance=ExtResource( 1 )]
+[node name="LeftWall" parent="Walls" groups=[
+"Obstacle",
+] instance=ExtResource( 1 )]
 position = Vector2( 70, 296 )
 rotation = -1.57079
 scale = Vector2( 0.730685, 1 )
 
-[node name="RightWall" parent="Walls" instance=ExtResource( 1 )]
+[node name="RightWall" parent="Walls" groups=[
+"Obstacle",
+] instance=ExtResource( 1 )]
 position = Vector2( 730, 296 )
 rotation = -1.57079
 scale = Vector2( 0.730685, 1 )
